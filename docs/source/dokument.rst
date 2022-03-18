@@ -16,6 +16,7 @@ Nagłowek 4
 tekst naglowek 4
 
 .. code:: javascript
+
     var i;
     i = [];
 
