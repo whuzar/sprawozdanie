@@ -37,7 +37,7 @@ what
 how
     tlumaczenie tworzenia
 
-.. image:: img/moon
+.. image:: img/moon.png
     :alt: moon
 
 .. table:: Naglowek tabela
