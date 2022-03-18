@@ -15,8 +15,13 @@ Nagłowek 4
 """"""""""""""""""""""""
 tekst naglowek 4
 
+.. code:: javascript
 var i;
 i = [];
+
+.. code-block:: console
+
+    (.venv) $ pip install lumache
 
 Link google `google <https://www.google.pl/>`_
 
