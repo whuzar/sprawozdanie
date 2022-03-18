@@ -8,12 +8,15 @@ tekst naglowek 2
 
 Nagłowek 3
 ~~~~~~~~~~~~~~~~~~~~~~~~
+.. tip::
 
-tekst naglowek 3
+    tekst naglowek 3
 
 Nagłowek 4
 """"""""""""""""""""""""
-tekst naglowek 4
+.. note::
+
+    tekst naglowek 4
 
 .. code:: javascript
 
